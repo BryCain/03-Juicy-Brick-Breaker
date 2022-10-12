@@ -8,9 +8,13 @@ Includes music, sound effects, sprites for all elements, colored bricks, a comet
 
 ## References
 https://kenney.nl/assets/puzzle-pack
+
 https://kenney.nl/assets/digital-audio
+
 https://www.theleagueofmoveabletype.com/orbitron
+
 https://freemusicarchive.org/music/Avaren/Avaren/Oceanica/
+
 https://godotshaders.com/shader/moving-rainbow-gradient/
 
 ## Future Development
