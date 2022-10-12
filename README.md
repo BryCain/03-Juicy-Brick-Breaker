@@ -8,15 +8,19 @@ Includes music, sound effects, sprites for all elements, colored bricks, a comet
 
 ## References
 
-https://freemusicarchive.org/music/Avaren/Avaren/Oceanica/
+[Juice it or lose it — a talk by Martin Jonasson & Petri Purho](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
 
-https://kenney.nl/assets/digital-audio
+[Open Color open source color scheme](https://yeun.github.io/open-color/)
 
-https://kenney.nl/assets/puzzle-pack
+[Oceanica by Avaren](https://freemusicarchive.org/music/Avaren/Avaren/Oceanica/)
 
-https://www.theleagueofmoveabletype.com/orbitron
+[Digital Audio, provided by kenney.nl](https://kenney.nl/assets/digital-audio)
 
-https://godotshaders.com/shader/moving-rainbow-gradient/
+[Puzzle Pack, provided by kenney.nl](https://kenney.nl/assets/puzzle-pack)
+
+[League Gothic Typeface](https://www.theleagueofmoveabletype.com/orbitron)
+
+[Moving Rainbow Gradient, created by Exuin](https://godotshaders.com/shader/moving-rainbow-gradient/)
 
 ## Future Development
 None
