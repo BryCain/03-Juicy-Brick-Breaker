@@ -7,13 +7,14 @@ This project is my attempt at a juicy brick breaker. I went with a neon theme, a
 Includes music, sound effects, sprites for all elements, colored bricks, a comet trail for the ball, paddle animation, brick animation (both at the start of the game and when they are broken), screen shake, a unique UI theme, a neon-style WorldElement, and a shader for the fever mode bar.
 
 ## References
-https://kenney.nl/assets/puzzle-pack
+
+https://freemusicarchive.org/music/Avaren/Avaren/Oceanica/
 
 https://kenney.nl/assets/digital-audio
 
-https://www.theleagueofmoveabletype.com/orbitron
+https://kenney.nl/assets/puzzle-pack
 
-https://freemusicarchive.org/music/Avaren/Avaren/Oceanica/
+https://www.theleagueofmoveabletype.com/orbitron
 
 https://godotshaders.com/shader/moving-rainbow-gradient/
 
