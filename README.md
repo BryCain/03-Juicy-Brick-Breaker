@@ -18,7 +18,7 @@ Includes music, sound effects, sprites for all elements, colored bricks, a comet
 
 [Puzzle Pack, provided by kenney.nl](https://kenney.nl/assets/puzzle-pack)
 
-[League Gothic Typeface](https://www.theleagueofmoveabletype.com/orbitron)
+[Orbitron Typeface](https://www.theleagueofmoveabletype.com/orbitron)
 
 [Moving Rainbow Gradient, created by Exuin](https://godotshaders.com/shader/moving-rainbow-gradient/)
 
